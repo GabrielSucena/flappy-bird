@@ -1,2 +1,11 @@
-# flappy-bird
-Flappy bird game created using HTML, CSS and JavaScript
+# Flappy Bird - Web Developer
+
+## Technology used
+
+- [ ] HTML
+- [ ] CSS
+- [ ] JavaScript
+
+
+<img src="imgs/readme-img.png">
+
